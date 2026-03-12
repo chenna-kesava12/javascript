@@ -1,0 +1,8 @@
+let num =40;
+num = Number(num);
+
+if (num >= 0) {
+    console.log("Positive Number");
+} else {
+    console.log("Negative Number");
+}
