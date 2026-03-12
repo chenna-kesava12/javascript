@@ -1,0 +1,8 @@
+let marks = 37;
+marks = Number(marks);
+
+if (marks >= 35) {
+    console.log("Pass");
+} else {
+    console.log("Fail");
+}
